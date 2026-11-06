@@ -1,0 +1,6 @@
+{
+  "name": "aekboy2010 shop",
+  "description": "Professional EV Controller Tuning Suite: VOTOL EM series, SP GUI Tool dk 2.0 for DKYS controllers (DK72420S, DK72180, DK72240 [ฟรี]), and Soyosource GTI 1200W by aekboy2010 shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

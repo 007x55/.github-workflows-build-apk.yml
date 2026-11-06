@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Dark shield background -->
+    <path
+        android:fillColor="#0B132B"
+        android:pathData="M54,20L28,32v24c0,18.8 11.2,36.4 26,41c14.8,-4.6 26,-22.2 26,-41V32L54,20z" />
+    <!-- Racing Orange / Neon Cyan Edge border -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M54,23L31,34v22c0,16.8 10,32.5 23,36.6c13,-4.1 23,-19.8 23,-36.6V34L54,23z" />
+    <path
+        android:fillColor="#0B132B"
+        android:pathData="M54,26L34,36v20c0,15 9,29 20,32.7c11,-3.7 20,-17.7 20,-32.7V36L54,26z" />
+    <!-- Stylized "A" letter for aekboy2010 -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,34L40,66h7l3,-7h8l3,7h7L54,34z M52,47l2,-6l2,6h-4z" />
+    <!-- Tuner sliders & lightning bolt -->
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M58,52l-6,11h7l-4,13l13,-14h-7z" />
+</vector>
